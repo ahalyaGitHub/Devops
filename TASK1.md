@@ -1,4 +1,4 @@
-## TASK1
+## TASK 1
 
 1. NGINX Welcome Page – Confirms that the NGINX web server is successfully installed and running on 192.168.1.101. Further configuration is needed.
    
