@@ -1,6 +1,6 @@
 ## TASK 4
 
-# Kubernetes Deployment of a Dockerized E-commerce React Application
+# Kubernetes 
 
 ![image](https://github.com/user-attachments/assets/93234729-5732-4bbe-95d9-8ac8e9cb91eb)
 
